@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 ##- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zachery-gebreab) or zachery200311@gmail.com
 - ⚡ Fun fact: ...
 -->
-##- 🔭 I’m currently working on: IBM Data Management Certificate
-##- 🌱 I’m currently learning: SQL, Big Data tools, and Machine Learning
-##- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zachery-gebreab) or zachery200311@gmail.com
+- 🔭 I’m currently working on: IBM Data Management Certificate
+- 🌱 I’m currently learning: SQL, Big Data tools, and Machine Learning
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zachery-gebreab) or zachery200311@gmail.com
